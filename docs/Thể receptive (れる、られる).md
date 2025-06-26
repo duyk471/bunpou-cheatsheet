@@ -1,8 +1,10 @@
 Hay còn được gọi là: thể bị động (受身形), nó đúng hơn là **trợ động từ mang nghĩa "bị" hoặc "được"** – hay gọi là *trợ từ tiếp nhận* (receptive helper verb) cũng được.
 ![[Pasted image 20250528153009.png]]
 Nó là một [[Động từ]] phụ gắn vào **stem あ (a-stem)** của động từ chính. Bao gồm có hai dạng:
+
 * 「れる」dùng cho godan.
 * 「られる」dùng cho ichidan.
+
 **Nó mang nghĩa "bị" hoặc "được" – tức là nhận lấy hành động (động từ chính) ấy**. Có thể so sánh với *get*  trong Tiếng Anh: *get* hành động gì đó, kiểu như get done, get cleaned, .etc.
 「さくらがしかられた。」---「叱る（しかる）」= la mắng -> Gốc dạng あ là 「叱ら」-> Thêm 「れる」 vào thành 「叱られる」= *bị la* -> Quá khứ là 「叱られた」= *đã bị la* **→ Sakura đã bị la mắng.**
 ![[Pasted image 20250528153037.png]]
@@ -26,3 +28,7 @@ Một cách giải thích hay khác từ phần bình luận:
 ### 迷惑受け身 (Phiền)
 「さくらはだれかに**かばんが**ぬすまれた。」means `Sakura's **bag** got stolen by someone` or, literally, `In relation to Sakura, **bag** got stolen by someone`. **But we can also say** 「**さくらが**だれかにかばんをぬすまれた。」 **This is the nuisance receptive**. So what does this sentence mean in English? Very simple: `**Sakura** got her bag stolen`
 
+
+### Ghi them
+こんにちは! もしかしてこちらに 引っ越してこられた(passive form of kuru)方ですか? (引っ越してこられた方 to 引っ越してきた方)
+passive tense can be used to add politeness/respect
