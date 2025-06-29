@@ -1,31 +1,23 @@
-# Những ghi chú tự học ngữ pháp Tiếng Nhật
+# Đại tuyển tập ngữ pháp
 
 Ghi lại tất cả những gì mà mình đã học về ngữ pháp Tiếng Nhật
 
-#### N5
-- [[ください＆〜ないでください]]
-- [[〜ませんか＆〜ましょう]]
-- [[Tổng kết N5]]
+### Cơ bản
+- [[Cure Dolly]]: Được coi như N6 (Bắt đầu học từ đây)
+- [[TMW Grammar]]: Tổng hợp những phần giải đáp ngữ pháp siêu hay từ thành viên của nhóm Discord TheMoeWay.
 
-#### N4
 
-- [[Tổng hợp N4]]
+### JLPT
+- [[N5]] - Trích dẫn từ trang NihongoKyoshi
+- [[N4]] - Trích dẫn từ trang NihongoKyoshi
+- [[N3]]
+- [[N2]]
+- [[N1]]
 
-#### N3
+### Dictionary of Japanese Grammar
 
-- [[理由・原因　（N3）]]
-- [[状況・変化　（N3）]]
-- [[立場・基準　（N3）]]
-- [[逆接・否定（N3）]]
-- [[程度・強調・比較（N3）]]
+- [[DOJG1]]
+- [[DOJG2]]
+- [[DOJG3]]
 
-#### N2
-Đầu tiên thì, một số シリーズ dưới đây đã được giải thích trên hướng dẫn của Cure Dolly và nó không thực sự cần nhiều nghĩa đến vậy: 
 
-- [[「もの」シリーズ]]
-- [[「こと」シリーズ]]
-- [[「限り」シリーズ]]
-- [[順接・逆接]]
-
-#### N1
-Sẽ học sau khi thi xong JLPT N2, mà không phải bây giờ

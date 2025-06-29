@@ -1,4 +1,5 @@
 Ăn cắp từ bài [# Toàn bộ kiến thức về Tôn kính ngữ, khiêm nhường ngữ N3 JLPT cần phải biết](https://riki.edu.vn/goc-chia-se/kinh-ngu-tieng-nhat/)
+
 ### Kính ngữ là gì
 
 Kính ngữ là một loại “ngữ pháp” phổ biến trong tiếng Nhật, nhằm thể hiện sự kính trọng hoặc tôn trọng cho vị trí hay cấp bậc khi được dùng trong việc đề cập đến một người nào đó. Cũng giống như tiếng Việt, cách nói chuyện trong tiếng Nhật sẽ khác nhau tùy vào đối tượng giao tiếp. Khi nói chuyện với người lớn tuổi hoặc bề trên sẽ có kính ngữ.
@@ -159,3 +160,47 @@ Ví dụ:
 Trong tiếng Nhật có sự phân biệt giữa khái niệm “người nhà” (うち) và “người ngoài” (そと).
 
 Người Nhật có xu hướng sử dụng kính ngữ đối với người được coi là “người ngoài” (luôn hạ mình, khiêm nhường khi nói về mình, về “người nhà”). Ngoài các thành viên trong gia đình được coi là “người nhà”, thì đồng nghiệp, những người làm cùng công ty, hay tổ chức mà mình thuộc về cũng được coi là “người nhà”.
+
+## Tổng hợp danh sách các cấu trúc khác
+
+## 敬語
+### お / ご~する
+〜する(自分の行動を相手に丁寧に言うときに使う)
+試験の結果は、はがきでお送りします。	
+ 
+### お / ご~になる
+ 〜です(他の人の行動や状 況 について丁寧に言うときに使う)
+社長は商品を売り出す前に、まずは自分でお試しになる。	
+
+### お / ご~くださる
+〜してくれる
+おばさんがお送りくださったみかん、昨日受け取りました
+
+### お / ご〜いただく
+〜してもらう
+この度はご協 力 いただき、心 より感謝しております。
+
+### お / ご〜申し上げる
+~を言う
+今後とも、よろしくお願い申し上げます。
+
+### 〜ございます
+~です / ~があります
+せっかくのお誘いですが、週末は予定がございます。申し訳ありません。
+
+### ~ております
+~しています
+当店は、年中 休まず営 業 しております。
+
+### 〜と申します
+
+(名前)と言います
+建築部の村上と申します。よろしくお願いいたします
+
+### お目にかかります
+会います
+来月、お目にかかれることを楽しみにしています。	
+
+### 伺います
+行きます・聞きます
+それでは、来週 月曜日の朝9時に伺いますね。	

@@ -11,7 +11,7 @@
 - Bài 7: [[Các thân từ cho động từ]] (Chính là bài viết về "Chia động từ")
 - Bài 8: [[Trợ từ に]] & [[Trợ từ へ]], [[Trợ từ の]]
 - Bài 8.5 có nói thêm về các trợ từ như: [[Trợ từ が]], [[Trợ từ に]], [[Trợ từ へ]], [[Trợ từ を]] và [[Trợ từ で]]
-- Bài 9: [[Diễn đạt ý muốn trong Tiếng Nhật - ほしい, たい, たがる]], bài này có nói thêm về [[Chủ ngữ trong Tiếng Nhật]]
+- Bài 9: [[ほしい, たい, たがる]], bài này có nói thêm về [[Chủ ngữ trong Tiếng Nhật]]
 - Bài 10: [[Thể khả năng (る、られる)]]
 - Bài 11: [[Thể て]] cho câu ghép, [[くれる và あげる]]
 - Bài 12: [[Trợ từ と]]
@@ -37,6 +37,11 @@
 - Bài 33: Chỉ giới hạn [[だけ, しか, ばかり, のみ]]
 - Bài 34: [[Mệnh đề logic]]
 - Bài 35: [[より, のほう, 一方]]
+- Bài 36: [[]]
+- Bài 37: [[]]
+- Bài 38: [[]]
+- Bài 39: [[]]
+- Bài 40: [[]]
 - Bài 41: 5 key facts about the basic structure of Japanese (Cái này thì mình đã thêm từng ghi chú một vào trong từng bài tương ứng). Một FACT: Nearly all Japanese words fall into one of three categories: Nouns, Verbs, and Adjectives.
 - Bài 42: [[まま]], tiện học được luôn [[我が]]
 - Bài 44: [[ちゃう, ちゃった]]
@@ -53,7 +58,7 @@
 - Bài 59 + 60: Lý thuyết chung.
 - Bài 61 là về [[は、も]], [[Trợ từ が]], đi sâu hơn
 - Bài 62:  Bài về ておく trong [[てある・ている・ておく]] và てしまう trong [[Thể て + Trợ động từ]]
-- Bài 63: [[Một số sentence enders]]
+- Bài 63: [[Trợ từ kết thúc câu]]
 - Bài 64: [[もの＆こと]]
 - Bài 65: [[行く、来る、て行く、て来る]]
 - Bài 66: Nói thêm về chủ ngữ ẩn [[Chủ ngữ trong Tiếng Nhật]]
