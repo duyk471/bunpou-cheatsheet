@@ -16,4 +16,6 @@ Ghi lại tất cả những gì mà mình đã học về ngữ pháp Tiếng N
 
 ### Dictionary of Japanese Grammar
 
-[[DOJG1]] còn quyển 2 với quyển 3 hơi lười làm.
+- [[DOJG1]]
+- [[DOJG2]]
+- [[DOJG3]]
