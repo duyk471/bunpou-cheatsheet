@@ -4,3 +4,6 @@ language = "vi"
 multilingual = false
 src = "src"
 title = "Tiếng Nhật Cheatsheet"
+
+[build]
+build-dir = "public"
