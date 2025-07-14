@@ -1,4 +1,4 @@
-Nên nhớ, nó khác so với [Thể sai khiến (せる、させる)](Thể%20sai%20khiến%20(せる、させる).md) nha!
+Nên nhớ, nó khác so với Thể sai khiến (せる、させる) nha!
 
 ### Thể て
 
@@ -42,7 +42,7 @@ Mệnh lệnh trực tiếp.
 - 食べる → 食べろ (Ăn đi!)
 
 
-### [のだ ・んだ](のだ%20・んだ.md)
+### のだ ・んだ
 
 Khi kết thúc bằng `のだ` hay `んだ`, một mệnh đề **logic hoàn chỉnh** có thể trở thành **một mệnh lệnh ngầm**. 宿題をするのだ – Hãy làm bài tập! (giống như: “việc đó là phải làm bài tập đấy!”)
 

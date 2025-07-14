@@ -9,5 +9,5 @@ Cá nhân mình không biết gọi là từ nhiều nghĩa có đúng không, n
 > Learning laundry-lists of different usages is no use at all. Encounter usages as you go along with your immersion, but use your understanding of the underlying metaphor to make it easier to learn them. The proper context of words is communication, not lists. 
 
 Một số trợ động từ (helper verb) hay được kết hợp sau đó:
-- [込む](込む.md)
-- [出す](出す.md)
+- 込む
+- 出す

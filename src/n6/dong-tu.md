@@ -1,8 +1,5 @@
 Ghi nhớ nhanh là: Every verb ends in an -う row kana – and it has to be a kana, it can’t be included in kanji.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xDxMzqlEjVs?si=72O7D0rPo4TZAmbx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-_(Bài 4 của Cure Dolly)_
-
 Lấy ví dụ từ ngữ pháp Tiếng Anh trước, trong ngữ pháp Tiếng Anh sẽ có ba kiểu thì để chỉ thời gian: quá khứ, hiện tại và tương lại. Nhưng trong Tiếng Nhật, trên thực tế, chỉ có hai kiểu thì: quá khứ và "bất quá khứ" (non-past tense)
 
 Thì *bất quá khứ* trong Tiếng Nhật thường thể hiện những sự kiện/hành động trong tương lai. Ví dụ như **いぬがたべる** - Con chó sẽ-ăn; さくらがあるく - Sakura sẽ-đi-bộ (Nghe thiếu tự nhiên bởi vì nó thiếu tự nhiên thật).
@@ -26,6 +23,7 @@ Một thắc mắc của cá nhân mình:
 Để thể hiện quá khứ: Chỉ cần thêm た. So, いぬがたべる -> いぬがたべた.
 
 (Có nhiều cách thêm た khác nhau, cách thêm た cũng sẽ tương tự cách thêm て. Sẽ được nói thêm trong bài 5)
+
 ### Các nhóm động từ
 
 #### Động từ Ichidan (一段)
@@ -46,4 +44,4 @@ Chỉ có hai động từ bất nguyên tắc thôi, đó là くる (tới) an
 
 ![](https://khanhduy743.github.io/cure-dolly-transcript/media/image575.webp)
 
-Động từ có thể chuyển sang một số thể như [Thể て](Thể%20て.md) hoặc thể た (Về cơ bản cách "chia" cũng sẽ như thể て), hay có thể chuyển đổi [Các thân từ cho động từ](Các%20thân%20từ%20cho%20động%20từ.md)  để ghép với các trợ động từ (helper verb khác). Cũng có thể  có [Động từ ghép](Động%20từ%20ghép.md) (Ghép hai động từ để tạo ra một động từ với nghĩa mới)
+Động từ có thể chuyển sang một số thể như Thể て](Thể%20て.md) hoặc thể た (Về cơ bản cách "chia" cũng sẽ như thể て), hay có thể chuyển đổi [Các thân từ cho động từ](Các%20thân%20từ%20cho%20động%20từ.md)  để ghép với các trợ động từ (helper verb khác). Cũng có thể  có [Động từ ghép (Ghép hai động từ để tạo ra một động từ với nghĩa mới)

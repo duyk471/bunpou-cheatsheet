@@ -18,7 +18,7 @@ Cách tạo: Chuyển kana cuối từ dòng う → dòng い:
 - はなす → はなし
 
 Dùng để: 
-- Thêm trợ động từ ます ([Tôn kính ngữ, khiêm nhường ngữ](Tôn%20kính%20ngữ,%20khiêm%20nhường%20ngữ.md)) hoặc [たい](たい.md) (muốn làm gì): かいます, ききます, はなします, かいたい, ききたい, はなしたい. 
+- Thêm trợ động từ ます (Tôn kính ngữ, khiêm nhường ngữ) hoặc たい (muốn làm gì): かいます, ききます, はなします, かいたい, ききたい, はなしたい. 
 - Tạo danh từ kết hợp với trợ danh từ: かいもの（mua sắm）→ 買い+物, のみもの（đồ uống）→ 飲み+物 hoặc はなしかた（cách nói）→ 話し+方 (Đây là các động từ Godan rồi). Đối với Ichidan thì chỉ cần bỏ る là xong: たべる → たべ. Có thể thành: たべます, たべたい, たべもの
 #### Thân từ あ
 
@@ -30,15 +30,15 @@ Cách tạo: Chuyển kana cuối từ dòng う → dòng あ:
 - はなす → はなさ
 
 Dùng để làm: 
-- Thân từ cho trợ tính từ [ない](ない.md) (phủ định): かわない, きかない, はなさない hoặc cho:
-- [Thể sai khiến (せる、させる)](Thể%20sai%20khiến%20(せる、させる).md): Với godan + せる (かう → かわせる) còn ichidan thì bỏ る + させる (たべる → たべさせる)
-- [Thể receptive (れる、られる)](Thể%20receptive%20(れる、られる).md): Với godan (động từ nhóm 1): đổi sang あ-stem → + れる còn với ichidan (động từ nhóm 2): bỏ る → + られる
+- Thân từ cho trợ tính từ ない (phủ định): かわない, きかない, はなさない hoặc cho:
+- Thể sai khiến (せる、させる): Với godan + せる (かう → かわせる) còn ichidan thì bỏ る + させる (たべる → たべさせる)
+- Thể receptive (れる、られる): Với godan (động từ nhóm 1): đổi sang あ-stem → + れる còn với ichidan (động từ nhóm 2): bỏ る → + られる
 
 ### Thân từ え
 
 Được tạo bằng cách đổi **う → え**. Ví dụ: かく thành かけ, のむ → のめ, はなす → はなせ. Đối với **ichidan (る-verbs)**: chỉ cần bỏ る → gắn て/ろ
 
-We use the え-row sticky stem để tạo [Thể khả năng (る、られる)](Thể%20khả%20năng%20(る、られる).md) của động từ, which means you “can do” the verb. The helper verb, which is stuck onto the え-row sticky stem, is る / られる. So, we have かえる, can buy; きける, can hear; はなせる, can speak, and so forth; plus たべられる, can eat. 
+We use the え-row sticky stem để tạo Thể khả năng (る、られる) của động từ, which means you “can do” the verb. The helper verb, which is stuck onto the え-row sticky stem, is る / られる. So, we have かえる, can buy; きける, can hear; はなせる, can speak, and so forth; plus たべられる, can eat. 
 ### Thân từ お
 
 Được tạo bằng cách đổi **う → お + う**. Ví dụ: かく → かこう, のむ → のもう, はなす → はなそう.
@@ -48,7 +48,7 @@ And what we do with this sticky stem is attach う, and, as you know, う when a
 
 きく becomes きこう/kikō; はなす becomes はなそう/hanasō.
 かう becomes かおう, let’s buy; きく becomes きこう, let’s listen, let’s hear; はなす becomes はなそう, let’s talk.
-Để tạo nên [Thể ý chí](Thể%20ý%20chí.md)
+Để tạo nên Thể ý chí
 In the ichidan form, we add よう to the end of the ichidan sticky stem. (And ofc. delete る). So たべる becomes たべよう, let’s eat.
 One peculiarity of the volitional form is that you can also make it by changing the form of ます to use the volitional in its formal (polite) mode.
 

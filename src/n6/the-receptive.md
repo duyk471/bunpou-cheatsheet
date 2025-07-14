@@ -1,6 +1,6 @@
 Hay còn được gọi là: thể bị động (受身形), nó đúng hơn là **trợ động từ mang nghĩa "bị" hoặc "được"** – hay gọi là _trợ từ tiếp nhận_ (receptive helper verb) cũng được.
 ![Pasted image 20250528153009.png](img/Pasted%20image%2020250528153009.png)
-Nó là một [Động từ](Động%20từ.md) phụ gắn vào **stem あ (a-stem)** của động từ chính. Bao gồm có hai dạng:
+Nó là một Động từ phụ gắn vào **stem あ (a-stem)** của động từ chính. Bao gồm có hai dạng:
 
 - 「れる」dùng cho godan.
 - 「られる」dùng cho ichidan.

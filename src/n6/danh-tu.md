@@ -1,34 +1,83 @@
-Danh từ là loại từ phổ biến nhất trong Tiếng Nhật
+# Danh từ trong tiếng Nhật
 
-### Siêu danh từ
-There is a legion of super-nouns. What I mean by this is that there are certain special categories of noun, each of which has one superpower and one only.
+Danh từ là một trong những loại từ phổ biến và linh hoạt nhất trong tiếng Nhật. Ngoài danh từ thông thường, còn có những "siêu danh từ" (super-nouns) có những năng lực đặc biệt riêng.
 
-#### Adjectival nouns
-The first group is adjectival nouns, which are horribly misnamed by the textbooks “な adjectives”. They’re not adjectives. They are nouns that can under certain circumstances be used adjectivally
-So, we can say “屋敷が不思議だ” – “mansion mysterious is”.
+---
 
-But we can also use that soft form of “だ”, which is “な”, and we can say “不思議な屋敷” - “mysterious-is mansion”. You can’t do that with a regular noun. And that’s the only difference between
+## I. Siêu danh từ
 
-#### する nouns
-And their superpower is that they are allowed to drop the direct object marker, "を".
-if we take the noun “勉強”, which means “study”, we can say “勉強をする”, which means “do study” but we can also say “勉強する”, which means “to study” (the verb).
-#### Adverbial nouns. 
-Now, there are a lot of these and an awful lot of them end in the kana “り”, but not all of them by any means.
+Một số danh từ trong tiếng Nhật có thể hoạt động như các từ loại khác trong ngữ cảnh cụ thể. Dưới đây là ba loại siêu danh từ phổ biến:
 
-Any noun that’s appropriate for the use can be turned into an adverb by adding に. So, “静か”, which is the (Adjectival) noun “quiet”, can be used adverbially with に. We can say “静かにする” – “do quietly / act quietly”.
-_(But)_ **With adverbial nouns, we can drop that に.** (Có thể Cure Dolly đang coi "trạng từ" là "danh từ trạng từ")
-`ゆっくり` -- that means ****slow**** or ****leisurely**** and we can say `**ゆっくりに**する` -- `act **in a leisurely manner**`, `**ゆっくりに**歩く` -- `walk **slowly**`. But we can also say `ゆっくりする`, `ゆっくり歩く`. **We can drop that に**.
-### Danh từ ghép
+### 1. Adjectival nouns (còn gọi là “な adjectives”)
 
-Từ 「かいちゅうどけい（懐中時計）」là ví dụ cho **danh từ ghép**.
-* 「懐中（かいちゅう）」= “bên trong túi áo/túi quần”
-* 「時計（とけい）」= “đồng hồ”
+Chúng không phải là tính từ thực sự. Đây là **danh từ** nhưng có thể hoạt động **như tính từ** khi đi trước một danh từ khác, bằng cách thêm **な**.
 
-Trong tiếng Nhật, thay vì dùng trợ từ の để nối hai danh từ (như trong cấu trúc A の B), khi muốn tạo **một từ mới** có nghĩa hoàn toàn riêng biệt, người Nhật thường **ghép trực tiếp hai danh từ lại với nhau** – tương tự như trong tiếng Anh với các từ như *bookshelf* (kệ sách) hay *seaweed* (rong biển).
+* Ví dụ:
 
-Ngoài ra, khi ghép như vậy, bạn sẽ thấy hiện tượng **âm thanh bị biến đổi** ở danh từ thứ hai – ví dụ từ 「とけい」thành 「どけい」. Đây gọi là **rendaku (連濁)** hay như tác giả gọi vui là “**móc ten-ten**”.
+  * 不思議だ (là điều kỳ lạ)
+  * 不思議な屋敷 (ngôi biệt thự kỳ lạ)
 
-Ví dụ khác: 「あお（青）」 = màu xanh và「そら（空）」 = bầu trời → Không phải 「あおそら」mà là 「あおぞら」(bầu trời xanh)
+Một danh từ bình thường không thể làm được điều này.
 
-Những âm đầu như t, k, s... sẽ được chuyển thành d, g, z... khi nằm ở danh từ thứ hai trong từ ghép – đây là quy tắc phổ biến nhưng không phải lúc nào cũng áp dụng.
+### 2. する nouns
 
+Đây là những danh từ có thể kết hợp trực tiếp với động từ **する** để tạo thành một động từ ghép.
+
+* Ví dụ:
+
+  * 勉強をする = học (theo dạng đầy đủ, có tân ngữ)
+  * 勉強する = học (rút gọn, trực tiếp)
+
+Điểm đặc biệt: Có thể **lược bỏ trợ từ を** mà vẫn hợp ngữ pháp.
+
+### 3. Adverbial nouns
+
+Là những danh từ có thể được sử dụng như **trạng từ**, thường bằng cách thêm **に**. Tuy nhiên, trong nhiều trường hợp, **に** có thể bị lược bỏ.
+
+* Ví dụ:
+
+  * 静かにする = hành động một cách yên tĩnh
+  * ゆっくりに歩く = đi chậm rãi
+  * ゆっくり歩く = đi chậm rãi (bỏ に vẫn được)
+  * ゆっくりする = thư giãn, thong thả
+
+Lưu ý: Rất nhiều danh từ loại này kết thúc bằng 「り」, nhưng không phải tất cả.
+
+---
+
+## II. Danh từ ghép
+
+### 1. Định nghĩa
+
+Tiếng Nhật thường **ghép trực tiếp hai danh từ** để tạo thành một từ mới mang nghĩa riêng biệt, thay vì dùng cấu trúc A の B.
+
+* Ví dụ:
+
+  * 懐中（かいちゅう）= trong túi
+  * 時計（とけい）= đồng hồ
+  * 懐中時計（かいちゅうどけい）= đồng hồ bỏ túi
+
+Cách này tương tự như cách ghép từ trong tiếng Anh: *bookshelf*, *classroom*, *notebook*, v.v.
+
+### 2. Rendaku (連濁) – hiện tượng biến âm
+
+Khi danh từ thứ hai được ghép vào, âm đầu của nó đôi khi sẽ **biến đổi (thêm "ten-ten")**, ví dụ:
+
+* 時計 → どけい
+* 空（そら）→ 青空（あおぞら） chứ không phải *あおそら*
+
+Âm đầu như **k, s, t**... sẽ đổi thành **g, z, d**... theo một số quy tắc ngữ âm nhất định. Tuy nhiên, không phải lúc nào cũng áp dụng được – vẫn có ngoại lệ.
+
+---
+
+## III. Tóm tắt
+
+| Loại danh từ | Mô tả                                   | Ví dụ      |
+| ------------ | --------------------------------------- | ---------- |
+| Thường       | Danh từ thông thường                    | 本, 車, 人    |
+| Adjectival   | Có thể dùng với な để bổ nghĩa           | 不思議な話      |
+| する noun      | Ghép với する để thành động từ            | 勉強する, 運動する |
+| Adverbial    | Dùng như trạng từ (với hoặc không có に) | ゆっくり歩く     |
+| Ghép         | Hai danh từ ghép thành từ mới           | 青空, 懐中時計   |
+
+---
