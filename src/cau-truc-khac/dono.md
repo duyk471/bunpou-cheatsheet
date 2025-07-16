@@ -5,9 +5,11 @@ Câu hỏi của bạn rất hay và mình sẽ giải thích rõ ràng nhé.
 
 > 昨日私が乗った飛行機は、今まで乗ったどの（　　　）小さかった。
 
+
 Đáp án đúng:
 **2) 飛行機よりも**
-\=> **昨日私が乗った飛行機は、今まで乗ったどの飛行機よりも小さかった。**
+\=> **昨日私が乗った飛行機は、今まで乗ったどの飛行機よりも小さかった。
+**
 ⇒ *Chiếc máy bay tôi đi hôm qua nhỏ hơn bất kỳ chiếc máy bay nào tôi từng đi đến giờ.*
 
 
