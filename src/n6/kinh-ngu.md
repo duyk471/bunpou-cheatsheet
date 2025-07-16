@@ -1,4 +1,4 @@
-Ăn cắp từ bài [# Toàn bộ kiến thức về Tôn kính ngữ, khiêm nhường ngữ N3 JLPT cần phải biết](https://riki.edu.vn/goc-chia-se/kinh-ngu-tieng-nhat/)
+Ăn cắp từ bài [# Toàn bộ kiến thức về Tôn kính ngữ, khiêm nhường ngữ  JLPT cần phải biết](https://riki.edu.vn/goc-chia-se/kinh-ngu-tieng-nhat/)
 
 ### Kính ngữ là gì
 
